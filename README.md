@@ -43,4 +43,12 @@ Infosys Springboard Course (TBA)
 
 ---
 
+### Week 2: June 24 – June 30
 
+- Took a short vacation to recharge.
+- Completed Infosys Springboard AI course.
+- Registered for Hack2Skill Hackathon (Theme: Google Cloud Agentic AI).
+- Continued reflecting on learning and progress.
+- Reminded myself that breaks are okay — consistency matters more than perfection.
+
+*Reflection*: Even while on vacation, I didn’t lose sight of my goals. Now that I’m back, I’m ready to build and explore more!
